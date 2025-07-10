@@ -14,7 +14,7 @@ const API_OPTIONS = {
     }
 }
 
-//Testing complete
+//Testing
 const App = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [errorMessage, setErrorMessage] = useState('')
@@ -83,6 +83,7 @@ const App = () => {
                 </section>
             </div>
         </main>
+
     );
 };
 
