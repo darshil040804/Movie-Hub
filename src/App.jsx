@@ -14,7 +14,7 @@ const API_OPTIONS = {
     }
 }
 
-//Testing Github more
+//Testing complete
 const App = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [errorMessage, setErrorMessage] = useState('')
