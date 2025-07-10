@@ -14,7 +14,6 @@ const API_OPTIONS = {
     }
 }
 
-//Testing
 const App = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [errorMessage, setErrorMessage] = useState('')
